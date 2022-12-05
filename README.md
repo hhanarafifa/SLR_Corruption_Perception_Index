@@ -10,4 +10,4 @@
 
 ## Findings
 * The equation from the SLR model: **Corruption_Index = 106.69 - 1.29(Gini_Index)**
-* The models only explains **21.5%** of the variances in Y.
+* The models only explains **21.5%** of the variances in Corruption_Index.
